@@ -1,5 +1,5 @@
-site_name: HomeLab Docs
-site_description: Documentation for my HomeLab projects
+site_name: Entra ID Administration
+site_description: Documentation for my Entra ID administration projects
 site_author: John Scalla
 theme:
   name: material
@@ -16,8 +16,8 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Dark mode
-      primary: blue grey
-      accent: deep purple
+      primary: blue
+      accent: deep orange
     # Light Mode
     - scheme: default
       toggle:
